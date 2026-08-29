@@ -1,4 +1,5 @@
 # MVC_68050423_Panumas
 
-dotnet restore "\n"
+dotnet restore
+
 dotnet run
